@@ -1,0 +1,10 @@
+program pc;
+var a,c:integer;
+var b:char;
+var g,f,h:integer;
+var k,l:char;
+begin
+a:=12+25;
+a:= k;
+if a>c then (a:=c) else c:=5
+end.
